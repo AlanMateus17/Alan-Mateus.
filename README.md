@@ -48,6 +48,14 @@ Ao estudar essas linguagens, meu objetivo é não apenas adquirir habilidades pr
 Em resumo, meu estudo das linguagens de programação é uma jornada motivada pela curiosidade e pelo desejo de compreender as inovações que estão moldando nosso futuro. Estou comprometido em aprender constantemente e desenvolver projetos que me ajudem a aplicar o conhecimento adquirido, preparando-me assim para um futuro promissor na área de tecnologia.
 
 --- 
+<div align="center">
+  <a href="https://github.com/AlanMateus17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanMateus17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMateus17&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
